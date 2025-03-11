@@ -6,19 +6,22 @@
 ### How to run it on your own machine
 
 1. Setup virtual environment
+   ```
    python -m venv yourvirtualenv_name
    .\yourvirtualenv_name\Scripts\activate
-
+   ```
+   
 2. Install Streamlit
+   ```
    pip install streamlit babel
-
-3. Install the requirements
+   ```
+4. Install the requirements
 
    ```
    $ pip install -r requirements.txt
    ```
 
-4. Run the app
+5. Run the app
 
    ```
    $ streamlit run dashboard.py
