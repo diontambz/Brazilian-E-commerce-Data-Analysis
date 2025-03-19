@@ -1,16 +1,14 @@
 # 🎈 E-Commerce Public Dataset
 
-### ACCES THE WEB DASHBOARD VIA STREAMLIT : https://brazilian-e-commerce-analysis.streamlit.app/ ###
+## Dashboard via Streamlit : 
+https://brazilian-e-commerce-analysis.streamlit.app/
 
-![image.png](attachment:6f42918b-bd9c-440d-8251-b80851ccd665:image.png)
+![Screenshot 2025-03-11 163057](https://github.com/user-attachments/assets/03ccfa29-f4de-4cdd-a8c9-a60e2a62f83b)
+![Screenshot 2025-03-11 163107](https://github.com/user-attachments/assets/3c140754-fb80-4f48-9b0b-6e92e3e1fad6)
+![Screenshot 2025-03-11 163236](https://github.com/user-attachments/assets/e866563f-d2b8-4319-a409-75ed9a067487)
+![Screenshot 2025-03-11 164459](https://github.com/user-attachments/assets/2485ea2c-1d84-4b4b-ba7f-5d41ce49c512)
+![Screenshot 2025-03-11 163035](https://github.com/user-attachments/assets/e65edb69-3026-4f5a-9f4d-5e3cc328badd)
 
-![image.png](attachment:7905db3b-10f7-47b0-b42c-d4b7395804ec:image.png)
-
-![image.png](attachment:87f4ddd9-fb1d-4771-8f8a-65aab51100a1:image.png)
-
-![image.png](attachment:f3ab5c39-ee5b-4166-a125-63e54ebfc9e2:image.png)
-
-![image.png](attachment:ee658915-dd6f-45e7-a1b1-9da293cb087c:dcf8f955-3fa3-4fc1-a8f8-338207f74e94.png)
 
 Proyek ini menganalisis dataset publik e-commerce dari Brasil untuk mendapatkan wawasan bisnis yang berharga. Analisis berfokus pada pemahaman pola penjualan produk, tren pendapatan, distribusi pelanggan, dan preferensi pembayaran untuk membantu mengoptimalkan strategi bisnis.
 
